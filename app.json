@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "TrioLingo",
+    "sdkVersion": "27.0.0",
+    "orientation": "portrait",
+    "privacy": "public",
+    "android": {
+      "package": "com.boardgame.app",
+      "versionCode": 1,
+      "permissions": ["VIBRATE"],
+      "icon": "./src/assets/images/icon.png"
+    }
+  }
+}
