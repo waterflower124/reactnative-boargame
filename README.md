@@ -25,6 +25,7 @@ Below you'll find information about performing common tasks. The most recent ver
   * [Networking](#networking)
   * [iOS Simulator won't open](#ios-simulator-wont-open)
   * [QR Code does not scan](#qr-code-does-not-scan)
+  * [App Store Link](#app-store-link)
 
 ## Updating to New Releases
 
